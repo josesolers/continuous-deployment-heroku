@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  publish_in_heroku_registry:
+  deploy_in_heroku:
     runs-on: ubuntu-latest
     env:
       HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}

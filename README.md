@@ -1,1 +1,1 @@
-# Despliegue cntinuo con Heroku
+# Despliegue continuo con Heroku
